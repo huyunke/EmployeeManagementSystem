@@ -1,0 +1,9 @@
+zhangwei male 302024315001 13812345678 administration 8500
+lili female 302024315002 13998765432 administration 8800
+wanggang male 302024315003 15011112222 administration 9200
+zhaoying female 302024315004 15233334444 administration 9000
+chenming male 302024315005 15866667777 administration 9500
+liuwen female 302024315006 18688889999 administration 8900
+sunhao male 302024315007 17700001111 administration 9300
+zhounan female 302024315008 13322223333 administration 8700
+wuzheng male 302024315009 14755556666 administration 9100
